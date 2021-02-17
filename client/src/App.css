@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.tab-content {
+  margin-top: 50px;
+}
+form {
+  text-align: left;
+}
+.custom-cog-toggle:hover {
+  text-decoration: none;
+}
+a.dropdown-item {
+  text-align: center;
+}
